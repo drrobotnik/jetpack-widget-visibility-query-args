@@ -1,10 +1,10 @@
 <?php /**
  * Plugin Name: Jetpack Widget Visibility Additional Fields - Query Args
- * Plugin URI: http://caavadesign.com
+ * Plugin URI: https://github.com/drrobotnik/jetpack-widget-visibility-query-args
  * Description: Add the ability to add query args to jetpacks visibility widget
  * Version: 1.0.0
  * Author: Brandon lavigne
- * Author URI: http://caavadesign.com
+ * Author URI: https://github.com/drrobotnik
  * License: GPL2
  */
 
