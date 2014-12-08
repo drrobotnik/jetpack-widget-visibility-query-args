@@ -8,11 +8,11 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin adds query args to the Jetpack Widget Visiblity module.
+This plugin adds query args to the Jetpack Widget Visibility module.
 
 == Description ==
 
-The Jetpack visiblity module is appended to the bottom of all widgets (including 3rd parties). This plugin adds a "Query Args" option so that you can add a key value pair. For example, show a promotional text widget when someone enters a specific search.
+The Jetpack visibility module is appended to the bottom of all widgets (including 3rd parties). This plugin adds a "Query Args" option so that you can add a key value pair. For example, show a promotional text widget when someone enters a specific search.
 
 == Installation ==
 
